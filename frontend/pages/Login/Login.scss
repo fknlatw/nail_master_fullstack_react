@@ -1,0 +1,13 @@
+.login_form{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 3rem auto;
+    padding: 1rem;
+    width: 400px;
+
+    p{
+        text-align: center;
+        color: red;
+    }
+}

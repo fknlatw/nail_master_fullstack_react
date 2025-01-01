@@ -1,0 +1,12 @@
+.not_authenticated_banner{
+    text-align: center;
+    margin: 5rem auto;
+    max-width: 300px;
+    padding: 1rem;
+}
+.home{
+    display: grid;
+    grid-template-columns: 1.5fr 4fr;
+    width: 100%;
+
+}
