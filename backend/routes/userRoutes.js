@@ -5,4 +5,5 @@ const {registerUser, loginUser, logoutUser} = require("../controllers/userContro
 userRouter.post("/register",registerUser);
 userRouter.post("/login", loginUser);
 userRouter.post("/logout", logoutUser);
+
 module.exports = userRouter;
